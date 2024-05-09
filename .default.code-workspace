@@ -53,7 +53,7 @@
     "cSpell.customDictionaries": {
       "custom-dictionary-workspace": {
         "name": "custom-dictionary-workspace",
-        "path": "${workspaceFolder}/.cspell.txt",
+        "path": "${workspaceFolder}/.cspell/dictionary.txt",
         "addWords": true,
         "scope": "workspace"
       }

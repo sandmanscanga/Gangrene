@@ -12,11 +12,6 @@ authors = ["sandmanscanga <59103444+sandmanscanga@users.noreply.github.com>"]
 
 readme = "README.md"
 
-repository = "https://github.com/sandmanscanga/Gangrene"
-
-[tool.poetry.scripts]
-gang = "gangrene.cli:main"
-
 [tool.poetry.dependencies]
 python = "^3.11"
 

@@ -1,0 +1,8 @@
+autofix
+isort
+levelname
+mypkg
+mypy
+pycache
+pylint
+sandmanscanga
